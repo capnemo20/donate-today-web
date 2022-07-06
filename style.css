@@ -1,0 +1,13 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    /* margin: 0; */
+}
+.donate-btn{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(166, 18, 62),rgb(118, 46, 90));
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
