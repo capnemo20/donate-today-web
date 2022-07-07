@@ -85,6 +85,12 @@ body {
 }
 
 #amount1 {
+    /* margin-left: 40px; */
+    /* margin: 10px; */
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: bisque;
     margin-left: 500px;
     /* border: 10px;
     padding: 10px;
@@ -103,10 +109,22 @@ body {
 
 #amount3{
     margin-left: 30px;
+    /* margin-left: 40px; */
+    /* margin: 10px; */
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: bisque;
 }
 
 #amount4{
     margin-left: 30px;
+    /* margin-left: 40px; */
+    /* margin: 10px; */
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: bisque;
 }
 #input-option{
     margin-left: 520px;
@@ -132,3 +150,48 @@ body {
     
 }
 
+.last-part {
+    display: flex;
+    height: 400px;
+    
+    
+}
+.donation-plan{
+    margin-top: 100px;
+    margin-left: 500px;
+    font-size: 43px;
+}
+
+.donation-plan-text{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.first-part-of-last{
+    
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin: 10px;
+    padding-top: 150px;
+    padding-left: 10px;
+    padding-right: 5px;
+    background-color: aliceblue;
+}
+.second-part-of-last{
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin: 10px;
+    padding-top: 150px;
+    padding-left: 10px;
+    padding-right: 5px;
+    background-color: beige;
+}
+
+.third-part-of-last{
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin: 10px;
+    padding-top: 150px;
+    padding-left: 10px;
+    padding-right: 5px;
+    background-color: azure;
+}
