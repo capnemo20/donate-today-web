@@ -140,7 +140,7 @@ body {
     text-decoration: none;
    
     background-image: linear-gradient(rgb(170, 30, 33), rgb(96, 7, 9));
-    margin-left: 520px;
+    margin-left: 570px;
     margin-top: 200px;
     margin-bottom: 500px;
     color: white;
@@ -171,18 +171,20 @@ body {
     border: 2px solid blue;
     border-radius: 10px;
     margin: 10px;
-    padding-top: 150px;
+    padding-top: 100px;
     padding-left: 10px;
     padding-right: 5px;
+    padding-bottom: 300px;
     background-color: aliceblue;
 }
 .second-part-of-last{
     border: 2px solid blue;
     border-radius: 10px;
     margin: 10px;
-    padding-top: 150px;
+    padding-top: 100px;
     padding-left: 10px;
     padding-right: 5px;
+    padding-bottom:250px;
     background-color: beige;
 }
 
@@ -193,5 +195,9 @@ body {
     padding-top: 150px;
     padding-left: 10px;
     padding-right: 5px;
+    padding-bottom: 300px;
     background-color: azure;
 }
+/* .food-img{
+    padding-top: -200px;
+} */
