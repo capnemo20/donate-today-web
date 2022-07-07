@@ -50,7 +50,7 @@ body {
     text-align: center;
     font-size: 60px;
     margin-top: 70px;
-    
+
 
     color: white;
 
@@ -58,6 +58,7 @@ body {
 
 .donation-sec {
     padding-top: 100px;
+   
 }
 
 /* .donation-area{
@@ -107,7 +108,7 @@ body {
 
 }
 
-#amount3{
+#amount3 {
     margin-left: 30px;
     /* margin-left: 40px; */
     /* margin: 10px; */
@@ -117,7 +118,7 @@ body {
     background-color: bisque;
 }
 
-#amount4{
+#amount4 {
     margin-left: 30px;
     /* margin-left: 40px; */
     /* margin: 10px; */
@@ -126,7 +127,8 @@ body {
     border-radius: 5px;
     background-color: bisque;
 }
-#input-option{
+
+#input-option {
     margin-left: 520px;
     margin-bottom: 50px;
     margin-top: 2px;
@@ -136,68 +138,96 @@ body {
     padding-bottom: 10px;
     padding-right: 5px;
 }
+
 #donate-button2 {
     text-decoration: none;
-   
+
     background-image: linear-gradient(rgb(170, 30, 33), rgb(96, 7, 9));
     margin-left: 570px;
     margin-top: 200px;
     margin-bottom: 500px;
     color: white;
     padding: 10px 40px;
-   
+
     border-radius: 5px;
-    
+
 }
 
 .last-part {
     display: flex;
     height: 400px;
-    
-    
+
+
 }
-.donation-plan{
+
+.donation-plan {
     margin-top: 100px;
     margin-left: 500px;
     font-size: 43px;
 }
 
-.donation-plan-text{
+.donation-plan-text {
     text-align: center;
     margin-bottom: 100px;
 }
-.first-part-of-last{
-    
+
+.first-part-of-last {
+
+
     border: 2px solid blue;
     border-radius: 10px;
     margin: 10px;
+
     padding-top: 100px;
     padding-left: 10px;
     padding-right: 5px;
-    padding-bottom: 300px;
+    padding-bottom: 250px;
     background-color: aliceblue;
 }
-.second-part-of-last{
+
+.second-part-of-last {
     border: 2px solid blue;
     border-radius: 10px;
     margin: 10px;
+
     padding-top: 100px;
     padding-left: 10px;
     padding-right: 5px;
-    padding-bottom:250px;
+    padding-bottom: 250px;
     background-color: beige;
 }
 
-.third-part-of-last{
+.third-part-of-last {
+
     border: 2px solid blue;
     border-radius: 10px;
     margin: 10px;
-    padding-top: 150px;
+
+    padding-top: 100px;
     padding-left: 10px;
     padding-right: 5px;
-    padding-bottom: 300px;
+    padding-bottom: 250px;
     background-color: azure;
 }
-/* .food-img{
-    padding-top: -200px;
-} */
+
+.footer-section {
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    margin-top: 150px;
+    
+}
+
+#first-footer {
+    color:tomato;
+   text-align: center;
+    font-size: 30px;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+#second-footer {
+    color: darkcyan;
+    font-size: 15px;
+    text-align: center;
+}
